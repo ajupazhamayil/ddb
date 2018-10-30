@@ -1,12 +1,12 @@
 \contentsline {section}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {2}Literature Survey}{1}
-\contentsline {subsection}{\numberline {2.1}Challenges and Disadvantages in DDBS}{1}
-\contentsline {subsubsection}{\numberline {2.1.1}Disadvantages of Distributed Database[5]}{1}
+\contentsline {section}{\numberline {2}Literature Survey}{2}
+\contentsline {subsection}{\numberline {2.1}Challenges and Disadvantages in DDBS}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}Disadvantages of Distributed Database[5]}{2}
 \contentsline {subsubsection}{\numberline {2.1.2}Challenges of Distributed Database[5]}{2}
 \contentsline {subsection}{\numberline {2.2}Solution Proposed}{3}
 \contentsline {subsubsection}{\numberline {2.2.1}Distributed Concurrency Control and Consistency}{3}
-\contentsline {subsubsection}{\numberline {2.2.2}Distributed Deadlock Management}{4}
-\contentsline {subsubsection}{\numberline {2.2.3}Resource management}{5}
-\contentsline {subsubsection}{\numberline {2.2.4}Replication Management}{5}
-\contentsline {section}{\numberline {3}Conclusion}{6}
-\contentsline {section}{References}{7}
+\contentsline {subsubsection}{\numberline {2.2.2}Distributed Deadlock Management}{5}
+\contentsline {subsubsection}{\numberline {2.2.3}Resource management}{6}
+\contentsline {subsubsection}{\numberline {2.2.4}Replication Management}{6}
+\contentsline {section}{\numberline {3}Conclusion}{7}
+\contentsline {section}{References}{8}

@@ -52,6 +52,7 @@
 \newpage
 \pagenumbering{arabic}
 
+
 \section{Introduction}
 
 Databases has become an essential component in our everyday life. Actually in a day, the number of times we make use of database is enormous. If we take applications in the current society, starting with Google search, Whatsapp chat, Internet websites, Wikipedia and anything that you take will be from databases only. The fast access of them is the key to success in any business these days. People spend millions to take care of there databases consistent and fast.
@@ -61,6 +62,7 @@ Today’s applications which uses in industries are not the old-styled applicati
 Database systems actually can be said as a collection of data or information which are shared among many users. two broadway to classify them would be Centralized and Distributed databases. Centralized can be think as a database which works from a single node where as distributed database system can be viewed as a collection of nodes which work together via communicating through network or some other means and the users can actually access this data from anywhere in the network as if it is single system working only for them but the performance and availability will be very high.[2,3,4]
 
 
+\newpage
 \section {Literature Survey}
 \subsection{Challenges and Disadvantages in DDBS}
 
@@ -112,9 +114,11 @@ The main issues and some solutions proposed are discussed in this section.
 
 We can use synchronization mechanism for concurrency and consistency issues. Actually we have 3 type of synchronization mechanisms possible.
 
-Master-Slave mode
-Peer to Peer mode
-Hybrid Mode [8]
+1) Master-Slave mode
+
+2) Peer to Peer mode
+
+3) Hybrid Mode [8]
 
 Master-slave synchronization mode talks about two different type of nodes and they have their own functionality. Master can actually take commands to update the database where as the slave can only read the database data. So there will be more than one slaves which will work under a single master. The performance for reading will be very high compared to the normal system because all the machines will be working for a single query of a user which will results in the reduction of processing time. The problem here is with the single master. A single master will lead to a bottleneck for write operation. And it will make the problem of single point of failure also. So this system is not robust as usual distributed systems.
 
@@ -175,7 +179,7 @@ An access control mechanism will tell who will use what functionality. It can be
 There are different types of transparencies such as Access, Concurrency, Location, Replication, Failure, Migration, Performance, Scaling, Execution, Configuration, Network, and Naming. And there are three type of levels transparency which is Fragmentation, Location, and Local mapping[20]. How they are implemented is not included in this document.
 
 
-
+\newpage
 \section{Conclusion}
 I have read papers and text books related to issues in Distributed Database Systems. I concentrated on Peer-to-Peer model and gave an idea how to solve synchronization problem using a middleware-based database system. My seminar covered peer to peer model, master-slave model and hybrid model for distributed systems. I also discussed the improvements made by this middleware system comparing to the existing two phase locking protocol. I also discussed about current industrial standards and the gap between my base paper and the current standards.
 
